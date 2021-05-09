@@ -1,8 +1,10 @@
 # ImageRepository
 
-Created an Image Repository API using Node.js and Express
-Images are uploaded and deleted from GCP Storage Bucket
-Implemented JWT for authentication when performing API functionalities
+- Created an Image Repository API using Node.js and Express
+
+- Images are uploaded and deleted from GCP Storage Bucket
+
+- Implemented JWT for authentication when performing API functionalities
 
 To run the application, the user needs to make a gcp account and create a service account. When creating a service account, you will download a .json key that needs to be added into index.js in the config folder. Follow this link for more instructions: https://cloud.google.com/iam/docs/creating-managing-service-account-keys
 
