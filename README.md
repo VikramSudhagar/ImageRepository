@@ -16,3 +16,4 @@ To run the application/start the server run the command: npm run start
 To run the test cases for the application, run the command: npm run test
 
 Please read the ImageRepositoryDocumentation to learn more about the API requests
+https://github.com/VikramSudhagar/ImageRepository/blob/main/ImageRepositoryDocumentation.pdf
